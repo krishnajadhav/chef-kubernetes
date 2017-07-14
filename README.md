@@ -96,6 +96,4 @@ Include `kubernetes::default` in your minion node's `run_list`:
 
 ## License and Authors
 
-License:: http://bregor.mit-license.org
 
-Author:: Maxim Filatov (<bregor@evilmartians.com>)
